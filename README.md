@@ -1,9 +1,9 @@
 # weather-forcst-hw6
 
-about:
+This assignment was hard to get the different apis to work together but in the end I managed to get it all working.
 
 
-link 1:
+https://github.com/Nicog124/weather-forcst-hw6
 
 https://nicog124.github.io/weather-forcst-hw6/
 
